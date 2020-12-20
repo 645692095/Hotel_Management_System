@@ -5,7 +5,7 @@ import datetime
 
 #连接数据库
 db = connect(
-    host = 'localhost' ,port = 3306 ,user = 'root' ,password = '19990911' ,database = 'stu_info'
+    host = 'localhost' ,port = 3306 ,user = 'root' ,password = '123456' ,database = 'test'
 )
 
 #实例化数据库对象
